@@ -34,7 +34,7 @@ Designed to present its features, encourage downloads, and provide a visually ca
 
 <h2>🚀 Live Demo</h2>
 
-<p>🌐 View here: <a href="https://yousseftalaat-collab.github.io/Quran-Tab-Landing-Page/" target="_blank">Live Project</a></p>
+<p>🌐 View here: <a href="https://yousseftalaat-collab.github.io/Quarn-tab-landing-page/" target="_blank">Live Project</a></p>
 <p>📂 GitHub Repo: <a href="https://github.com/Yousseftalaat-collab/Quran-Tab-Landing-Page" target="_blank">Repository</a></p>
 
 <hr>
@@ -61,7 +61,6 @@ Designed to present its features, encourage downloads, and provide a visually ca
 
 <p>📧 Email: <a href="mailto:yousseftalaat142@gmail.com">yousseftalaat142@gmail.com</a></p>
 <p>🔗 LinkedIn: <a href="https://www.linkedin.com/in/youssef-talaat-1aa2671b3/">Youssef Talaat</a></p>
-<p>🐱 GitHub: <a href="https://github.com/Yousseftalaat-collab">Yousseftalaat-collab</a></p>
 
 ---
 
