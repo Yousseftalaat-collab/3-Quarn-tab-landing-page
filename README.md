@@ -35,7 +35,7 @@ Designed to present its features, encourage downloads, and provide a visually ca
 <h2>🚀 Live Demo</h2>
 
 <p>🌐 View here: <a href="https://yousseftalaat-collab.github.io/Quarn-tab-landing-page/" target="_blank">Live Project</a></p>
-<p>📂 GitHub Repo: <a href="https://github.com/Yousseftalaat-collab/Quran-Tab-Landing-Page" target="_blank">Repository</a></p>
+<p>📂 GitHub Repo: <a href="https://github.com/Yousseftalaat-collab/Quarn-tab-landing-page" target="_blank">Repository</a></p>
 
 <hr>
 
